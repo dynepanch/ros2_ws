@@ -1,0 +1,26 @@
+[0.471s] Invoking command in '/home/dynepanch/ros2_ws/src/mypkg': PYTHONPATH=/home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/dynepanch/ros2_ws/build/mypkg/build install --prefix /home/dynepanch/ros2_ws/install/mypkg --record /home/dynepanch/ros2_ws/build/mypkg/install.log --single-version-externally-managed
+[0.651s] running egg_info
+[0.651s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[0.655s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.655s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[0.655s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[0.655s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[0.657s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.658s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.658s] running build
+[0.658s] running build_py
+[0.658s] running install
+[0.658s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.658s]   warnings.warn(
+[0.658s] running install_lib
+[0.660s] byte-compiling /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/listener.py to listener.cpython-310.pyc
+[0.660s] Sorry: IndentationError: unexpected indent (listener.py, line 9)
+[0.660s] running install_data
+[0.660s] running install_egg_info
+[0.661s] removing '/home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.662s] Copying ../../build/mypkg/mypkg.egg-info to /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info
+[0.664s] running install_scripts
+[0.680s] Installing listener script to /home/dynepanch/ros2_ws/install/mypkg/lib/mypkg
+[0.680s] Installing talker script to /home/dynepanch/ros2_ws/install/mypkg/lib/mypkg
+[0.681s] writing list of installed files to '/home/dynepanch/ros2_ws/build/mypkg/install.log'
+[0.701s] Invoked command in '/home/dynepanch/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/dynepanch/ros2_ws/build/mypkg/build install --prefix /home/dynepanch/ros2_ws/install/mypkg --record /home/dynepanch/ros2_ws/build/mypkg/install.log --single-version-externally-managed

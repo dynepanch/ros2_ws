@@ -1,0 +1,35 @@
+[0.470s] Invoking command in '/home/dynepanch/ros2_ws/src/mypkg': PYTHONPATH=/home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/dynepanch/ros2_ws/build/mypkg/build install --prefix /home/dynepanch/ros2_ws/install/mypkg --record /home/dynepanch/ros2_ws/build/mypkg/install.log --single-version-externally-managed
+[0.649s] running egg_info
+[0.650s] creating ../../build/mypkg/mypkg.egg-info
+[0.650s] writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+[0.650s] writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.650s] writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+[0.650s] writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+[0.650s] writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+[0.651s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.652s] reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.652s] writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.653s] running build
+[0.653s] running build_py
+[0.653s] creating /home/dynepanch/ros2_ws/build/mypkg/build
+[0.653s] creating /home/dynepanch/ros2_ws/build/mypkg/build/lib
+[0.653s] creating /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg
+[0.653s] copying mypkg/__init__.py -> /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg
+[0.654s] running install
+[0.654s] running install_lib
+[0.654s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.654s]   warnings.warn(
+[0.654s] creating /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg
+[0.654s] copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/__init__.py -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg
+[0.654s] byte-compiling /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/__init__.py to __init__.cpython-310.pyc
+[0.655s] running install_data
+[0.655s] creating /home/dynepanch/ros2_ws/install/mypkg/share/ament_index
+[0.655s] creating /home/dynepanch/ros2_ws/install/mypkg/share/ament_index/resource_index
+[0.655s] creating /home/dynepanch/ros2_ws/install/mypkg/share/ament_index/resource_index/packages
+[0.656s] copying resource/mypkg -> /home/dynepanch/ros2_ws/install/mypkg/share/ament_index/resource_index/packages
+[0.656s] copying package.xml -> /home/dynepanch/ros2_ws/install/mypkg/share/mypkg
+[0.656s] running install_egg_info
+[0.657s] Copying ../../build/mypkg/mypkg.egg-info to /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info
+[0.657s] running install_scripts
+[0.673s] writing list of installed files to '/home/dynepanch/ros2_ws/build/mypkg/install.log'
+[0.694s] Invoked command in '/home/dynepanch/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mypkg build --build-base /home/dynepanch/ros2_ws/build/mypkg/build install --prefix /home/dynepanch/ros2_ws/install/mypkg --record /home/dynepanch/ros2_ws/build/mypkg/install.log --single-version-externally-managed

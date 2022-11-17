@@ -1,0 +1,58 @@
+running egg_info
+writing ../../build/mypkg/mypkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/mypkg/mypkg.egg-info/dependency_links.txt
+writing entry points to ../../build/mypkg/mypkg.egg-info/entry_points.txt
+writing requirements to ../../build/mypkg/mypkg.egg-info/requires.txt
+writing top-level names to ../../build/mypkg/mypkg.egg-info/top_level.txt
+reading manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/mypkg/mypkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying mypkg/listner.py -> /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+creating /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/install
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/install/local_setup.sh -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/install
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/install/local_setup.bash -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/install
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/install/.colcon_install_layout -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/install
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/install/setup.ps1 -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/install
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/install/setup.sh -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/install
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/install/setup.bash -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/install
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/install/_local_setup_util_ps1.py -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/install
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/install/COLCON_IGNORE -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/install
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/install/setup.zsh -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/install
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/install/local_setup.zsh -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/install
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/install/_local_setup_util_sh.py -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/install
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/install/local_setup.ps1 -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/install
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/listner.py -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg
+creating /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/build
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/build/.built_by -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/build
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/build/COLCON_IGNORE -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/build
+creating /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/log
+creating /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/log/latest
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/log/latest/logger_all.log -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/log/latest
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/log/latest/events.log -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/log/latest
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/log/COLCON_IGNORE -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/log
+creating /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/log/latest_build
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/log/latest_build/logger_all.log -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/log/latest_build
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/log/latest_build/events.log -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/log/latest_build
+creating /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/log/build_2022-11-17_12-12-39
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/log/build_2022-11-17_12-12-39/logger_all.log -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/log/build_2022-11-17_12-12-39
+copying /home/dynepanch/ros2_ws/build/mypkg/build/lib/mypkg/log/build_2022-11-17_12-12-39/events.log -> /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/log/build_2022-11-17_12-12-39
+byte-compiling /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/install/_local_setup_util_ps1.py to _local_setup_util_ps1.cpython-310.pyc
+byte-compiling /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/install/_local_setup_util_sh.py to _local_setup_util_sh.cpython-310.pyc
+byte-compiling /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/listner.py to listner.cpython-310.pyc
+  File "/home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg/listner.py", line 2
+    from rclpy,node import Node
+              ^
+SyntaxError: invalid syntax
+
+running install_data
+running install_egg_info
+removing '/home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/mypkg/mypkg.egg-info to /home/dynepanch/ros2_ws/install/mypkg/lib/python3.10/site-packages/mypkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing talker script to /home/dynepanch/ros2_ws/install/mypkg/lib/mypkg
+writing list of installed files to '/home/dynepanch/ros2_ws/build/mypkg/install.log'
