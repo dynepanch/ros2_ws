@@ -1,6 +1,7 @@
 {
   "package_name": "person_msgs",
   "non_idl_tuples": [
-    "/home/dynepanch/ros2_ws3/ros2_ws/person_msgs:msg/Person.msg"
+    "/home/dynepanch/ros2_ws3/ros2_ws/person_msgs:msg/Person.msg",
+    "/home/dynepanch/ros2_ws3/ros2_ws/person_msgs:srv/Query.srv"
   ]
 }

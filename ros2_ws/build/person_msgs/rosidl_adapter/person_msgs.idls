@@ -1,1 +1,2 @@
 /home/dynepanch/ros2_ws3/ros2_ws/build/person_msgs/rosidl_adapter/person_msgs:msg/Person.idl
+/home/dynepanch/ros2_ws3/ros2_ws/build/person_msgs/rosidl_adapter/person_msgs:srv/Query.idl
